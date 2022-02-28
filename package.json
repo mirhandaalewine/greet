@@ -1,0 +1,19 @@
+{
+  "name": "greet",
+  "version": "1.0.0",
+  "description": "Testing greet()",
+  "main": "greet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mirhandaalewine/greet.git"
+  },
+  "author": "Mirhanda Alewine <mhopealewine@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirhandaalewine/greet/issues"
+  },
+  "homepage": "https://github.com/mirhandaalewine/greet#readme"
+}
